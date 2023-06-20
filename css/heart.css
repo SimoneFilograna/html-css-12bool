@@ -1,0 +1,21 @@
+.container .row div{
+    min-height: 80px;
+}
+
+
+.title-heart{
+    text-align: CENTER;
+    font-size: 2rem;
+}
+
+.bg-black{
+    background-color: rgb(0, 0, 0);
+}
+
+.bg-bordeaux{
+    background-color: rgb(219, 43, 43);
+}
+
+.bg-dark-red{
+    background-color: rgb(167, 37, 37);
+}
