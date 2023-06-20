@@ -1,0 +1,42 @@
+body{
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+}
+
+
+.container .row div{
+    /* border: 1px solid fuchsia; */
+    height: 82px;
+}
+
+.ladder .bg{
+    background-image: url(../Bonus/img/material.png);
+}
+
+.container{
+    background-color: rgb(27, 241, 241);
+}
+
+.title-page{
+    text-align: center;
+    padding: 1rem;
+    font-size: 2.5rem;
+    text-decoration: underline;
+}
+
+.img-container{
+    position: relative;
+}
+
+.img-mario{
+    width: 200px;
+    position: absolute;
+    left: -5%;
+    bottom: 85%;
+}
+
+.flag{
+    position: absolute;
+    width: 100px;
+    left: 0%;
+    bottom: 100%;
+}
