@@ -142,6 +142,8 @@
 
 /* media query*/
 
+/* tablet */
+
 @media all and (max-width: 768px){
     
     .col-m{
@@ -265,6 +267,7 @@
     }
 }
 
+/* smartphone */
 
 @media all and (max-width: 576px){
     
