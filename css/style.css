@@ -31,3 +31,7 @@ body{
     justify-content: center;
     align-items: center;
 }
+
+
+
+/*  piuttosto che applicare le classi utilities alle col è preferibile non toccare direttamente la col, ma fare un div dentro la col con gli stili che vogliamo dare */
